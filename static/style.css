@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'AnimeFont';
+  src: url('/static/font1.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'AnimeFont', Arial, sans-serif;
+}
